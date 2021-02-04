@@ -27,6 +27,7 @@ body {
     font-size: 52px;
     text-transform: uppercase;
     line-height: 62px;
+    margin-bottom: 24px;
 }
 
 .title__secondary {
@@ -41,7 +42,8 @@ body {
     top: 497px;
     font-weight: 200;
     font-size: 18px;
-    line-height: 28px; 
+    line-height: 28px;
+    margin-bottom: 40px; 
 }
 
 .container__logos {
@@ -67,6 +69,7 @@ body {
     display: flex;
     align-items: center;
     justify-content:space-between;
+    margin-bottom: 64px;
 }
 
 .form-email {
