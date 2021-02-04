@@ -96,6 +96,11 @@ body {
     border-radius: 28px;
     border: none;
     padding: 9px 27px;
+    transition: 0.5s;
+}
+
+.form-submit:hover {
+    background: #B3FFE2;
 }
 
 .backgroundImage__host {
