@@ -1,0 +1,71 @@
+body {
+    font-family: 'Chivo', sans-serif;
+    background-color: #121725;
+}
+
+.logo img {
+    position: absolute;
+    width: 134.85px;
+    height: 56px;
+    left: 165px;
+    top: 102px;
+}
+
+.container__text {
+    background-color: #121725;
+    position: absolute;
+    width: 723px;
+    height: 509px;
+    left: 165px;
+    top: 261px;
+    z-index: 100;
+}
+
+.title {
+    font-weight: 300;
+    color: #54e6af;
+    font-size: 52px;
+    text-transform: uppercase;
+    line-height: 62px;
+}
+
+.title__secondary {
+    color: #ffffff;
+}
+
+.description {
+    color:#C2CBE5;
+    width: 445px;
+    height: 84px;
+    left: 165px;
+    top: 497px;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 28px; 
+}
+
+.container__logos {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 536px;
+    height: 29px;
+    left: 165px;
+    top: 741px;
+}
+
+.backgroundImage__host {
+    position: absolute;
+    width: 888px;
+    height: 640px;
+    left: 552px;
+    top: 130px;
+}
+
+.backgroundImage__pattern {
+    position: absolute;
+    width: 232px;
+    height: 104px;
+    left: 1208px;
+    top: 718px;
+}
